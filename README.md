@@ -50,5 +50,5 @@ Interactive platform to visualize algorithms and data structures.
 
 ## 📫 Connect with me
 
-LinkedIn: [YOUR_LINK](https://www.linkedin.com/in/aditya-kulkarni-97355a316/)  
+LinkedIn: [Linkedin](https://www.linkedin.com/in/aditya-kulkarni-97355a316/)  
 Email: kulkarniaditya299@gmail.com
