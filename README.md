@@ -48,7 +48,7 @@ Interactive platform to visualize algorithms and data structures.
 
 ## 📈 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya34-cyber&show_icons=true)
 
 ---
 
