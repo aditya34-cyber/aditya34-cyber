@@ -1,4 +1,7 @@
 <img width="300" height="234" alt="f0f0d932d6e39c7af5aa305cbd8da735" src="https://github.com/user-attachments/assets/316ab323-27c3-49d8-ab2c-a3194c655684" />
+
+
+
 # Hi, I'm Aditya Kulkarni 👋
 
 🎓 Computer Science student at MIT World Peace University  
